@@ -1,0 +1,2 @@
+(this["webpackJsonpmantis-free-react-admin-template"]=this["webpackJsonpmantis-free-react-admin-template"]||[]).push([[5],{813:function(a,e,t){},850:function(a,e,t){"use strict";t.r(e);t(0);var i=t.p+"static/media/background_comp.50be8585.jpg",n=(t(813),t(1));e.default=function(){return Object(n.jsx)("div",{className:"main-container",children:Object(n.jsx)("img",{className:"main-image",src:i,alt:"\uba54\uc778 \uc774\ubbf8\uc9c0"})})}}}]);
+//# sourceMappingURL=5.35b9758e.chunk.js.map
